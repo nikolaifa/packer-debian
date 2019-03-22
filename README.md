@@ -1,7 +1,9 @@
-# Packer templates for Debian (revisited by Quarkslab)
+# Packer templates for Debian and Ubuntu
 
-See original repo here: https://github.com/boxcutter/debian.
+Original debian repo: https://github.com/quarkslab/packer-debian
+which is based on: https://github.com/boxcutter/debian.
 
+Orignal ubuntu repo: https://github.com/boxcutter/ubuntu/
 
 1. [Generate Boxes](#generate-boxes)
     1. [Debian 9.0.0 AMD64](#debian-900-amd64)
