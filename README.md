@@ -5,8 +5,8 @@ See original repo here: https://github.com/boxcutter/debian.
 
 1. [Boxes informations](#boxes-informations)
 2. [Generate Boxes](#generate-boxes)
-    1. [Debian 9.0.0 AMD64](debian-9.0.0-amd64)
-    1. [Ubuntu 18.04.2 AMD64](ubuntu-18.04.2-amd64)
+    1. [Debian 9.0.0 AMD64](#debian-9.0.0-amd64)
+    1. [Ubuntu 18.04.2 AMD64](#ubuntu-18.04.2-amd64)
 3. [Security](#security)
     1. [SHA256](#sha256)
 
