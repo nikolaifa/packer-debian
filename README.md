@@ -7,6 +7,8 @@ which is based on: https://github.com/boxcutter/debian
 
 Orignal ubuntu repo: https://github.com/boxcutter/ubuntu/
 
+Original windows repo: https://github.com/juju4/windows
+
 1. [Generate Boxes](#generate-boxes)
     1. [Debian 9.0.0 AMD64](#debian-900-amd64)
     2. [Ubuntu 18.04.2 AMD64](#ubuntu-18042-amd64)
